@@ -1,4 +1,4 @@
-### Olá eu sou a Rose🖐️
+### Olá eu sou a Rose!🖐️
 
 
 ![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)<br>+351-939470631

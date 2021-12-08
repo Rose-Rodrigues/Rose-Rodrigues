@@ -1,8 +1,10 @@
 ### Olá eu sou a Rose🖐️
 
 
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+351-939470631)
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rose.europa17@gmail.com)
+![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)<br>+351-939470631
+
+![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<br>rose.europa17@gmail.com
+
 [![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rose-rodrigues-8a0890195/)
 
 ![Rose GitHub stats](https://github-readme-stats.vercel.app/api?username=Rose-Rodrigues&show_icons=true&theme=radical)
@@ -23,4 +25,4 @@ Aprendendo a cada dia mais, e  descobrindo uma nova paixão!💚
 
 Learning more every day and discovering a new passion!💚
 
-## rose.europa17@gmail.com
+
